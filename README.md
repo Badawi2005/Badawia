@@ -92,7 +92,7 @@
        Jl. Rangga Kusuma RT 13 RW 3</p>
     <p>⏰ Jam Operasional: 10.00 – 17.00</p>
 
-    <div class="stock">📦 Stok Hari Ini: HABIS</div>
+    <div class="stock">📦 Stok Hari Ini: TANYA LEWAT WA</div>
 
     <a class="btn eceran"
        href="https://wa.me/6282132698172?text=Halo%20Badawi%20Farm,%20saya%20ingin%20pesan%20TELUR%20ECERAN.%0ANama:%0AAlamat:%0AJumlah:">
